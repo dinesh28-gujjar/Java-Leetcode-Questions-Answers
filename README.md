@@ -1,6 +1,8 @@
 # Java-Leetcode-Questions-Answers
 Contents
-1 Rotate Array in Java 
+
+1 Rotate Array in Java
+
 2 Evaluate Reverse Polish Notation 
 3 Solution of Longest Palindromic Substring in Java
 4 Solution Word Break 
