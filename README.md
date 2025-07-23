@@ -1,7 +1,7 @@
 # Java-Leetcode-Questions-Answers
 Contents
 
-1 Rotate Array in Java
+1 [Rotate Array in Java](https://github.com/dinesh28-gujjar/Java-Leetcode-Questions-Answers/blob/main/Rotate_Array)
 
 2 Evaluate Reverse Polish Notation 
 3 Solution of Longest Palindromic Substring in Java
